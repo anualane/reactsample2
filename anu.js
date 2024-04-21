@@ -1,2 +1,2 @@
 console.log("anushri");
-alert("dfijoeif")
+alert("dfijo")
